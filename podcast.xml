@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大明有料</title>
+    <link>https://yyi162751-collab.github.io/daming-podcast/</link>
+    <language>zh-cn</language>
+    <description>认知升级·财富思维·读书思考。保持热情，复利潜行。</description>
+    <itunes:author>大明</itunes:author>
+    <itunes:summary>一个90后潮汕人，2017年毕业来广州，爱折腾，写认知写钱写书写自己。不端着不包装，就是一个真实的人把真实的思考摊开给你看。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>大明</itunes:name>
+      <itunes:email>yyi162751@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://yyi162751-collab.github.io/daming-podcast/cover.jpg"/>
+    <image>
+      <url>https://yyi162751-collab.github.io/daming-podcast/cover.jpg</url>
+      <title>大明有料</title>
+      <link>https://yyi162751-collab.github.io/daming-podcast/</link>
+    </image>
+
+    <item>
+      <title>EP001 - 人生应该允许休息一会儿，再继续出发</title>
+      <description><![CDATA[停更三年，我回来了。这不是一篇道歉信，也不是一篇鸡汤文，就是一个真实的人，把这三年的经历和思考，原原本本地讲给你听。2021年从负债到买房、进字节，2022年跳进创业的海里，踩坑、睡不着觉、摔了又爬起来。2026年，正式回归。保持热情，复利潜行。]]></description>
+      <guid isPermaLink="false">daming-podcast-ep001</guid>
+      <pubDate>Sat, 11 Jul 2026 19:00:00 +0800</pubDate>
+      <enclosure url="https://yyi162751-collab.github.io/daming-podcast/audio/ep001-rest-before-continuing.mp3" length="4587516" type="audio/mpeg"/>
+      <itunes:duration>287</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>停更三年，我回来了。</p><p>这不是道歉信，不是鸡汤文，就是坐下来跟你聊聊天。</p><p>从2021年的高光到2022年创业的低谷，从失眠焦虑到百战归来再读书。2026年，大明有料正式回归。</p><p>保持热情，复利潜行。</p>]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
