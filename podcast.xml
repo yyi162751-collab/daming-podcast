@@ -231,5 +231,18 @@
       <content:encoded><![CDATA[<p>一个人的成长天花板，约等于他身边最常对标的那个人。榜样不是拿来拜的，是拿来拆的——拆决策、拆动作、拆标准，第三层才是真正拉开差距的地方。十倍成长不是让你更用力，是换一把尺子。</p>]]></content:encoded>
     </item>
 
+  
+    <item>
+      <title>EP018 - 如何做好IP内容：先要感动自己，再感动平台</title>
+      <description><![CDATA[为什么有的内容一发就爆，有的一发就沉？答案不在平台算法里，在你自己身上。先感动自己，才有资格感动平台。本期聊IP内容创作最容易被跳过的那一步。]]></description>
+      <guid isPermaLink="false">daming-podcast-ep018</guid>
+      <pubDate>Sun, 01 Nov 2026 15:10:43 +0800</pubDate>
+      <enclosure url="https://yyi162751-collab.github.io/daming-podcast/audio/epep018-%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BDip%E5%86%85%E5%AE%B9-%E5%85%88%E8%A6%81%E6%84%9F%E5%8A%A8%E8%87%AA%E5%B7%B1-%E5%86%8D%E6%84%9F%E5%8A%A8%E5%B9%B3%E5%8F%B0.mp3" length="4485952" type="audio/mpeg"/>
+      <itunes:duration>280</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>为什么有的内容一发就爆，有的一发就沉？答案不在平台算法里，在你自己身上。先感动自己，才有资格感动平台。本期聊IP内容创作最容易被跳过的那一步。</p>]]></content:encoded>
+    </item>
+
   </channel>
 </rss>
