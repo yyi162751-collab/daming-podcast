@@ -257,5 +257,18 @@
       <content:encoded><![CDATA[<p>你抄到的只是答案，不是题目。别人的方法是在他的坑里爬出来的解法，你的题目长在你自己的坑里。本期聊解题思路是怎么被坑喂出来的。</p>]]></content:encoded>
     </item>
 
+  
+    <item>
+      <title>EP020 - 为什么懂了那么多道理，做事还是没手感？</title>
+      <description><![CDATA[市面上九成的懂，其实只是听过。段永平敢在网易跌破1美元时重仓，凭的不是K线，是做过小霸王的手感。体感公式：下场×复盘×加码。]]></description>
+      <guid isPermaLink="false">daming-podcast-ep020</guid>
+      <pubDate>Sun, 01 Nov 2026 15:11:02 +0800</pubDate>
+      <enclosure url="https://yyi162751-collab.github.io/daming-podcast/audio/epep020-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%87%82%E4%BA%86%E9%82%A3%E4%B9%88%E5%A4%9A%E9%81%93%E7%90%86-%E5%81%9A%E4%BA%8B%E8%BF%98%E6%98%AF%E6%B2%A1%E6%89%8B%E6%84%9F.mp3" length="3197801" type="audio/mpeg"/>
+      <itunes:duration>199</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>市面上九成的懂，其实只是听过。段永平敢在网易跌破1美元时重仓，凭的不是K线，是做过小霸王的手感。体感公式：下场×复盘×加码。</p>]]></content:encoded>
+    </item>
+
   </channel>
 </rss>
