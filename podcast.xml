@@ -244,5 +244,18 @@
       <content:encoded><![CDATA[<p>为什么有的内容一发就爆，有的一发就沉？答案不在平台算法里，在你自己身上。先感动自己，才有资格感动平台。本期聊IP内容创作最容易被跳过的那一步。</p>]]></content:encoded>
     </item>
 
+  
+    <item>
+      <title>EP019 - 为什么抄来的方法，到你手里就失灵？</title>
+      <description><![CDATA[你抄到的只是答案，不是题目。别人的方法是在他的坑里爬出来的解法，你的题目长在你自己的坑里。本期聊解题思路是怎么被坑喂出来的。]]></description>
+      <guid isPermaLink="false">daming-podcast-ep019</guid>
+      <pubDate>Sun, 01 Nov 2026 15:10:52 +0800</pubDate>
+      <enclosure url="https://yyi162751-collab.github.io/daming-podcast/audio/epep019-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%84%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95-%E5%88%B0%E4%BD%A0%E6%89%8B%E9%87%8C%E5%B0%B1%E5%A4%B1%E7%81%B5.mp3" length="2682877" type="audio/mpeg"/>
+      <itunes:duration>167</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>你抄到的只是答案，不是题目。别人的方法是在他的坑里爬出来的解法，你的题目长在你自己的坑里。本期聊解题思路是怎么被坑喂出来的。</p>]]></content:encoded>
+    </item>
+
   </channel>
 </rss>
